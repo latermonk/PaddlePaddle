@@ -50,3 +50,14 @@ docker run --rm -v ~/workspace:/workspace paddlepaddle/paddle:latest python /wor
 http://www.paddlepaddle.org/docs/develop/documentation/zh/getstarted/index_cn.html
 
 
+
+
+###  baidu技术学院
+
+####  PaddlePaddle 深度学习实战介绍    
+
+http://bit.baidu.com/course/datalist/column/117.html    
+
+
+
+
