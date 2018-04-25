@@ -5,6 +5,24 @@
 http://www.paddlepaddle.org/
 
 
+
+
+### 文档：
+
+http://www.paddlepaddle.org/docs/develop/documentation/zh/getstarted/index_cn.html
+
+
+
+
+###  baidu技术学院
+
+####  PaddlePaddle 深度学习实战介绍    
+
+http://bit.baidu.com/course/datalist/column/117.html    
+
+
+
+
 ###  快速上手：
 
 ```
@@ -44,19 +62,6 @@ for i in xrange(len(probs)):
 docker run --rm -v ~/workspace:/workspace paddlepaddle/paddle:latest python /workspace/housing.py
 ```
 
-
-### 文档：
-
-http://www.paddlepaddle.org/docs/develop/documentation/zh/getstarted/index_cn.html
-
-
-
-
-###  baidu技术学院
-
-####  PaddlePaddle 深度学习实战介绍    
-
-http://bit.baidu.com/course/datalist/column/117.html    
 
 
 
